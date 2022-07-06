@@ -1,4 +1,4 @@
-## BLoC
+## BLoC Checking Connectivity App
 
 A new Flutter project.
 
